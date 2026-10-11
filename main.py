@@ -1,0 +1,12 @@
+print("================================")
+print("       SMART STUDY PLANNER")
+print("================================")
+
+name = input("What is your name? ")
+subject = input("Which subject do you want to study? ")
+chapter = input("Which chapter do you want to study? ")
+print()
+print("Study Plan Created!")
+print("Student:", name)
+print("Subject:", subject)
+print("Chapter:", chapter)
