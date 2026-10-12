@@ -6,6 +6,7 @@ print("================================")
 name = input("What is your name? ")
 subject = input("Which subject do you want to study? ")
 chapter = input("Which chapter do you want to study? ")
+
 print("\nChoose the difficulty level:")
 print("1. Easy")
 print("2. Medium")
